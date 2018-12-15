@@ -1,5 +1,5 @@
 <center><a href="https://cirdel.github.io/MineCraftServer"><img src="https://upload.cc/i1/2018/12/15/N1AMXG.jpg
-" width="50%" height="50%" /></a></center>
+" width="100%" height="100%" /></a></center>
 ### · |  MineCraft优秀服务器推荐 ✔️ |  
     除置顶外按首字母排序
 
