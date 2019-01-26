@@ -6,7 +6,7 @@
 ###### >>>[Sticky on Top]科威科技 | CoolWill: <a href="//shang.qq.com/wpa/qunwpa?idkey=ef0e8ec03b9edf7142a4c7db24d8b6c5e2ecf99c3bda359cd12c3bfcbbb1cc20" alt="科威科技 | CoolWill" title="科威科技 | CoolWill">596123733</a>
     ServerIP:mc.coolwill.info
     OnlineMode:half-half
-    Whitelist:On
+    Whitelist:Off
     Trait:CMI,DivineitemsRPG,EWG,Funs,GPS,mcMMO,Octo,RPG,Survival
     Spent:>3000￥
     Player:>200P
